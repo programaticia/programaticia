@@ -30,6 +30,10 @@
   <img width=100% src="https://github-profile-trophy.vercel.app/?username=programaticia&bg_color=000080&column=7"/>
 </p>
 -->
+  <h3>Total de visitas no meu perfil 🔎 </h3>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/programaticia/count.svg" />
+ </p>
   
   ![Snake animation](https://github.com/programaticia/programaticia/blob/output/github-contribution-grid-snake.svg)
 
