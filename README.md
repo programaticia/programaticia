@@ -47,6 +47,3 @@
   
   ![Snake animation](https://github.com/programaticia/programaticia/blob/output/github-contribution-grid-snake.svg)
 
-  
-  
-
